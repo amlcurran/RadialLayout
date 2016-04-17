@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="RadialLayout">
+    <attr name="rl_radius" format="dimension|reference" />
+    <attr name="rl_angleOffset" format="integer|reference" />
+  </declare-styleable>
+
+  <dimen name="defaultRadius">80dp</dimen>
+</resources>
